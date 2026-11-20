@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108" role="img" aria-label="Yumusic">
+  <!-- Huruf Y yang batangnya berakhir di kepala not. Dipakai juga sebagai favicon. -->
+  <rect width="108" height="108" rx="23.76" fill="#FF6B4A"/>
+  <g transform="translate(54 54) scale(1.45) translate(-54 -54)" fill="none" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 35 L54 53 L68 35"/>
+    <path d="M54 53 V71"/>
+    <circle cx="50" cy="71" r="8" fill="#FFFFFF" stroke="none"/>
+  </g>
+</svg>
